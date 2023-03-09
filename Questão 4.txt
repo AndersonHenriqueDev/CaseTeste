@@ -1,0 +1,39 @@
+4 - Dois veículos (um carro e um caminhão) saem respectivamente de cidades opostas pela mesma rodovia. O carro de Ribeirão Preto em direção a Franca, a uma velocidade constante de 110 km/h e o caminhão de Franca em direção a Ribeirão Preto a uma velocidade constante de 80 km/h. Quando eles se cruzarem na rodovia, qual estará mais próximo a cidade de Ribeirão Preto?
+
+RESPOSTA:
+
+Quando o carro e o caminhão se encontrarem na rodovia, estarão exatamente no meio do caminho entre Ribeirão Preto e Franca. Como ambos os veículos viajaram por igual tempo até chegar nesse ponto, a distância percorrida pelo carro será maior do que a distância percorrida pelo caminhão, já que a velocidade do carro é maior.
+
+Podemos usar a fórmula para calcular a distância percorrida por cada veículo até o ponto de encontro:
+
+distância = velocidade x tempo
+
+Chamei de "d" a distância entre as duas cidades, que é a mesma para ambos os veículos. Sendo que a velocidade do carro é 110 km/h e a do caminhão é 80 km/h. Chamei de "t" o tempo que ambos os veículos levaram para se encontrarem.
+
+Então obtivemos:
+
+distância percorrida pelo carro = 110 km/h x t
+distância percorrida pelo caminhão = 80 km/h x t
+
+Como os dois veículos se encontram exatamente no meio do caminho, a distância percorrida por cada um até esse ponto é metade da distância total entre as duas cidades:
+
+110 km/h x t + 80 km/h x t = d/2
+
+Simplificando essa equação:
+
+190 km/h x t = d/2
+
+t = (d/2) / (190 km/h)
+t = d / 380 km/h
+
+Agora, calculei a distância percorrida por cada veículo até o ponto de encontro:
+
+distância percorrida pelo carro = 110 km/h x (d/380 km/h)
+distância percorrida pelo caminhão = 80 km/h x (d/380 km/h)
+
+Simplificando essas equações:
+
+distância percorrida pelo carro = 11d / 38
+distância percorrida pelo caminhão = 8d / 38
+
+O carro estará mais próximo de Ribeirão Preto quando os dois veículos se encontrarem, já que terá percorrido uma distância maior até chegar no ponto de encontro.

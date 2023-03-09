@@ -1,0 +1,30 @@
+1) Observe o trecho de código abaixo:
+
+int INDICE = 13, SOMA = 0, K = 0;
+
+enquanto K < INDICE faça
+
+{
+
+K = K + 1;
+
+SOMA = SOMA + K;
+}
+
+imprimir(SOMA);
+
+Ao final do processamento, qual será o valor da variável SOMA?
+
+
+
+RESPOSTA:
+
+Durante o processo, a variável K começa com valor 0 e é adicionada em 1 a cada iteração do loop enquanto K < INDICE (ou seja, enquanto K for menor que 13).
+
+Na primeira iteração, K será 1 e SOMA será 1, já que SOMA começa com valor 0 e é somado a K.
+
+Na segunda iteração, K será 2 e SOMA será 3, já que SOMA recebe o valor anterior mais K.
+
+Esse processo é repetido até que K seja igual a 13 e SOMA seja igual a 91, que é a soma dos números de 1 a 13.
+
+No final do processo a variável SOMA terá o valor 91.
